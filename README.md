@@ -37,3 +37,4 @@ cloud_predictor.cleanup_deployment()
 cloud_predictor.predict('test.csv')  # results will be stored in s3 bucket
 cloud_predictor.download_predict_results()  # download the results to your local machine
 ```
+
